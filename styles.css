@@ -14,3 +14,13 @@ th{
    margin-right: auto;
    text-align: center;
 }
+h1{
+   border: 2px solid;
+   width: 50%
+}
+#header{
+font-size: 2em;
+}
+html{
+   background-color:rgb(40, 33, 33)
+}
